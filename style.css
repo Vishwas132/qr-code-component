@@ -8,25 +8,11 @@ html, body {
     font-family: 'Outfit', sans-serif;
 }
 
-.attribution {
-    font-size: 11px; 
-    text-align: center;
-    margin-top: auto;
-}
-
-.attribution a {
-    color: rgb(62, 82, 163); 
-}
-
-img {
-    width: 100%;
-    border-radius: 15px;
-}
-
 .card-container {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
     height: 100%;
 }
 
@@ -36,7 +22,7 @@ img {
     justify-content: center;
     border: 0px solid black;
     border-radius: 25px;
-    margin: 30px;
+    width: 380px;
     background-color: white;
 }
 
@@ -45,6 +31,15 @@ img {
     flex-direction: column;
     align-items: center;
     margin: 20px;
+}
+
+.text-wrapper {
+    margin: 0 15px;
+}
+
+img {
+    width: 100%;
+    border-radius: 15px;
 }
 
 h1 {
@@ -56,8 +51,18 @@ h1 {
 
 p {
     text-align: center;
-    font-size: 20px;
+    font-size: 18px;
     color: rgb(144, 148, 157);
     font-weight: 400;
     margin-top: 0;
+}
+
+.attribution {
+    font-size: 15px; 
+    text-align: center;
+    margin-top: auto;
+}
+
+.attribution a {
+    color: rgb(62, 82, 163); 
 }
