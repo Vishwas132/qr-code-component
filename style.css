@@ -22,7 +22,7 @@ html, body {
     justify-content: center;
     border: 0px solid black;
     border-radius: 25px;
-    width: 290px;
+    width: 310px;
     background-color: white;
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
@@ -45,14 +45,14 @@ img {
 
 h1 {
     text-align: center;
-    font-size: 18px;
+    font-size: 20px;
     color: rgb(37, 48, 66);
     font-weight: 700;
 }
 
 p {
     text-align: center;
-    font-size: 13px;
+    font-size: 15px;
     color: rgb(144, 148, 157);
     font-weight: 400;
     margin-top: 0;
