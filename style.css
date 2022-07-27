@@ -31,11 +31,7 @@ html, body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin: 20px;
-}
-
-.text-wrapper {
-    margin: 0 20px;
+    margin: 17px;
 }
 
 img {
@@ -43,16 +39,20 @@ img {
     border-radius: 15px;
 }
 
+.text-wrapper {
+    margin: 0 15px;
+}
+
 h1 {
     text-align: center;
-    font-size: 20px;
+    font-size: 21px;
     color: rgb(37, 48, 66);
     font-weight: 700;
 }
 
 p {
     text-align: center;
-    font-size: 15px;
+    font-size: 16px;
     color: rgb(144, 148, 157);
     font-weight: 400;
     margin-top: 0;
