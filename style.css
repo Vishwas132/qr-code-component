@@ -22,8 +22,9 @@ html, body {
     justify-content: center;
     border: 0px solid black;
     border-radius: 25px;
-    width: 380px;
+    width: 290px;
     background-color: white;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
 
 .content-container {
@@ -34,7 +35,7 @@ html, body {
 }
 
 .text-wrapper {
-    margin: 0 15px;
+    margin: 0 20px;
 }
 
 img {
@@ -44,14 +45,14 @@ img {
 
 h1 {
     text-align: center;
+    font-size: 18px;
     color: rgb(37, 48, 66);
     font-weight: 700;
-    font-size: 26px;
 }
 
 p {
     text-align: center;
-    font-size: 18px;
+    font-size: 13px;
     color: rgb(144, 148, 157);
     font-weight: 400;
     margin-top: 0;
